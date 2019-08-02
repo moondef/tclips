@@ -14,7 +14,7 @@ yarn
 ```
 
 #### Scripts
-|`yarn <script>`    |Описание|
+|`yarn <script>`    |Description|
 |-------------------|-----------|
 |`run`            |Run app on `localhost:1234`|
 |`build`            |Build app to ./dist|

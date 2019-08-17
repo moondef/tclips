@@ -8,7 +8,7 @@ export const Result = ({ title, broadcaster, preview, download_link }) => {
     <ResultWrapper>
       <Title>{title}</Title>
       <Broadcaster>{broadcaster}</Broadcaster>
-      <Preview src={preview} />
+      <Preview src={preview} alt="Preview" />
       <div>
         <DownloadLink id="download-link">{download_link}</DownloadLink>
 
